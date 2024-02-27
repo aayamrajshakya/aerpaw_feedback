@@ -199,7 +199,7 @@ The ping results are saved in /root/Results/<Date>_<time>_traffic_log.txt and ca
 
 
 Example results with a eNB pinging UE2 are shown in Figure 1.
-<img src = "/feedbacks/images/SE1_SISO/1.png">
+<img src = "/aerpaw_feedback/images/SE1_SISO/1.png">
 <br>
 Fig 1: Ping Results
 
@@ -226,11 +226,11 @@ The trace shows typical radio parameters, specific to the protocol. In this case
 
 * The bitrate (brate) is the throughput in bits per second (k for kilo, M for Mega).
 <br>
-<img src= "/feedbacks/images/SE1_SISO/2.png">
+<img src= "/aerpaw_feedback/images/SE1_SISO/2.png">
 Fig. 3. srsENB.log with trace data for 2 UEs
 <br>
-<img src="/feedbacks/images/SE1_SISO/3.png">
+<img src="/aerpaw_feedback/images/SE1_SISO/3.png">
 Fig. 4. Logging at the eNodeB (srsENB.log)
 <br>
-<img src="/feedbacks/images/SE1_SISO/4.png">
+<img src="/aerpaw_feedback/images/SE1_SISO/4.png">
 Fig. 5. Logging at the EPC (srsEPC.log)
